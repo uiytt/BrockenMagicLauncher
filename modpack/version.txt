@@ -1,2 +1,2 @@
-0.1
+0.2
 https://github.com/uiytt/Kaiten-Magic/blob/master/modpack/20MB.zip?raw=true
