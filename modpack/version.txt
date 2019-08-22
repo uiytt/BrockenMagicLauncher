@@ -1,2 +1,2 @@
 0.2
-https://github.com/uiytt/Kaiten-Magic/blob/master/modpack/20MB.zip?raw=true
+https://github.com/uiytt/Kaiten-Magic/raw/master/modpack/sheepWars.zip
