@@ -1,2 +1,2 @@
-1.2
-http://craft.ovh/modpack-1.2.zip
+1.2.1
+http://62.4.16.142/modpack-1.2.1.zip
