@@ -1,0 +1,3 @@
+http://62.4.16.142/Kaiten/download.json
+0.1
+a6f4546843113392daa77b44d0d20417
