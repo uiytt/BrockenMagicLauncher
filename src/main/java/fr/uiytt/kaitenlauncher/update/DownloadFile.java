@@ -54,13 +54,14 @@ public class DownloadFile {
 
             // update progress bar
             SwingUtilities.invokeLater(new Runnable() {
+				
+				public void run() {
+	                   Main.getFrame().getProgressbar().setValue(currentProgress);
+					
+				}
+			});
+            		
 
-                @Override
-                public void run() {
-
-                   Main.getFrame().getProgressbar().setValue(currentProgress);
-                }
-            });
 
             bout.write(data, 0, x);
         }

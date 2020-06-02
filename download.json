@@ -1,0 +1,346 @@
+{
+	"version": 1.0,
+	"name" : "Kaiten Magic",	
+	"rule" : "normal",
+	"mods": [{
+		"name": "Vending",
+		"url": "http://62.4.16.142/Kaiten/mods/VendingMod.jar",
+		"size":389773,
+		"hash": "3721024254"
+	},{
+		"name": "Animus",
+		"url": "http://62.4.16.142/Kaiten/mods/Animus.jar",
+		"size":345084,
+		"hash": "3192367537"
+	},{
+		"name": "ArcaneArchives",
+		"url": "http://62.4.16.142/Kaiten/mods/ArcaneArchives.jar",
+		"size":4998014,
+		"hash": "1767061606"
+	},{
+		"name": "Astralsorcery",
+		"url": "http://62.4.16.142/Kaiten/mods/Astralsorcery.jar",
+		"size":24973981,
+		"hash": "3461480746"
+	},{
+		"name": "AutoRegLib",
+		"url": "http://62.4.16.142/Kaiten/mods/AutoRegLib.jar",
+		"size":108306,
+		"hash": "2439252668"
+	},{
+		"name": "Baubles",
+		"url": "http://62.4.16.142/Kaiten/mods/Baubles.jar",
+		"size":108450,
+		"hash": "2768018856"
+	},{
+		"name": "BiblioCraft",
+		"url": "http://62.4.16.142/Kaiten/mods/BiblioCraft.jar",
+		"size":5122856,
+		"hash": "2835245663"
+	},{
+		"name": "BiomeBundle",
+		"url": "http://62.4.16.142/Kaiten/mods/BiomeBundle.jar",
+		"size":13792706,
+		"hash": "2592415778"
+	},{
+		"name": "BloodArsenal",
+		"url": "http://62.4.16.142/Kaiten/mods/BloodArsenal.jar",
+		"size":671414,
+		"hash": "3314410620"
+	},{
+		"name": "BloodMagic",
+		"url": "http://62.4.16.142/Kaiten/mods/BloodMagic.jar",
+		"size":7202892,
+		"hash": "4143325569"
+	},{
+		"name": "Botania",
+		"url": "http://62.4.16.142/Kaiten/mods/Botania.jar",
+		"size":13820816,
+		"hash": "811581761"
+	},{
+		"name": "Chameleon",
+		"url": "http://62.4.16.142/Kaiten/mods/Chameleon.jar",
+		"size":96859,
+		"hash": "1420260728"
+	},{
+		"name": "Chisel",
+		"url": "http://62.4.16.142/Kaiten/mods/Chisel.jar",
+		"size":4754821,
+		"hash": "329500297"
+	},{
+		"name": "ChunkPregenerator",
+		"url": "http://62.4.16.142/Kaiten/mods/ChunkPregenerator.jar",
+		"size":512843,
+		"hash": "3949702249"
+	},{
+		"name": "Colytra",
+		"url": "http://62.4.16.142/Kaiten/mods/Colytra.jar",
+		"size":86375,
+		"hash": "536701943"
+	},{
+		"name": "Controlling",
+		"url": "http://62.4.16.142/Kaiten/mods/Controlling.jar",
+		"size":27162,
+		"hash": "2085177497"
+	},{
+		"name": "CTM",
+		"url": "http://62.4.16.142/Kaiten/mods/CTM.jar",
+		"size":194281,
+		"hash": "2377350478"
+	},{
+		"name": "CustomMainMenu",
+		"url": "http://62.4.16.142/Kaiten/mods/CustomMainMenu.jar",
+		"size":3439331,
+		"hash": "2059733877"
+	},{
+		"name": "DawnOfTime",
+		"url": "http://62.4.16.142/Kaiten/mods/DawnOfTime.jar",
+		"size":1255650,
+		"hash": "719378995"
+	},{
+		"name": "FoamFlower",
+		"url": "http://62.4.16.142/Kaiten/mods/FoamFlower.jar",
+		"size":67908,
+		"hash": "1802017783"
+	},{
+		"name": "GraveStone",
+		"url": "http://62.4.16.142/Kaiten/mods/GraveStone.jar",
+		"size":76022,
+		"hash": "3266326856"
+	},{
+		"name": "GuideAPI",
+		"url": "http://62.4.16.142/Kaiten/mods/GuideAPI.jar",
+		"size":169528,
+		"hash": "2610263572"
+	},{
+		"name": "Hwyla",
+		"url": "http://62.4.16.142/Kaiten/mods/Hwyla.jar",
+		"size":453778,
+		"hash": "3111000959"
+	},{
+		"name": "IceAndFire",
+		"url": "http://62.4.16.142/Kaiten/mods/IceAndFire.jar",
+		"size":19002941,
+		"hash": "345030607"
+	},{
+		"name": "IronChest",
+		"url": "http://62.4.16.142/Kaiten/mods/IronChest.jar",
+		"size":956692,
+		"hash": "672581932"
+	},{
+		"name": "IronChest",
+		"url": "http://62.4.16.142/Kaiten/mods/IronChest.jar",
+		"size":956692,
+		"hash": "672581932"
+	},{
+		"name": "ItemBlacklist",
+		"url": "http://62.4.16.142/Kaiten/mods/ItemBlacklist.jar",
+		"size":46403,
+		"hash": "1667147283"
+	},{
+		"name": "Jei",
+		"url": "http://62.4.16.142/Kaiten/mods/Jei.jar",
+		"size":650541,
+		"hash": "2744453654"
+	},{
+		"name": "JourneyMap",
+		"url": "http://62.4.16.142/Kaiten/mods/JourneyMap.jar",
+		"size":1920463,
+		"hash": "789995341"
+	},{
+		"name": "Llibrary",
+		"url": "http://62.4.16.142/Kaiten/mods/Llibrary.jar",
+		"size":884837,
+		"hash": "3549319638"
+	},{
+		"name": "MagicalPsi",
+		"url": "http://62.4.16.142/Kaiten/mods/MagicalPsi.jar",
+		"size":1433897,
+		"hash": "1372371010"
+	},{
+		"name": "MoreFlowers",
+		"url": "http://62.4.16.142/Kaiten/mods/MoreFlowers.jar",
+		"size":72073,
+		"hash": "4237697327"
+	},{
+		"name": "MoreOverlays",
+		"url": "http://62.4.16.142/Kaiten/mods/MoreOverlays.jar",
+		"size":51284,
+		"hash": "3585013956"
+	},{
+		"name": "MysticalLib",
+		"url": "http://62.4.16.142/Kaiten/mods/MysticalLib.jar",
+		"size":344055,
+		"hash": "2251549244"
+	},{
+		"name": "MysticWorld",
+		"url": "http://62.4.16.142/Kaiten/mods/MysticWorld.jar",
+		"size":1988643,
+		"hash": "3857084419"
+	},{
+		"name": "OpenTerrainGenerator",
+		"url": "http://62.4.16.142/Kaiten/mods/OpenTerrainGenerator.jar",
+		"size":1138314,
+		"hash": "3928456304"
+	},{
+		"name": "Optifine",
+		"url": "http://62.4.16.142/Kaiten/mods/Optifine.jar",
+		"size":2444057,
+		"hash": "1412934597"
+	},{
+		"name": "Patchouli",
+		"url": "http://62.4.16.142/Kaiten/mods/Patchouli.jar",
+		"size":466243,
+		"hash": "2908745251"
+	},{
+		"name": "Placeableitems",
+		"url": "http://62.4.16.142/Kaiten/mods/Placeableitems.jar",
+		"size":610245,
+		"hash": "4207417802"
+	},{
+		"name": "Placebo",
+		"url": "http://62.4.16.142/Kaiten/mods/Placebo.jar",
+		"size":76902,
+		"hash": "105903860"
+	},{
+		"name": "Psi",
+		"url": "http://62.4.16.142/Kaiten/mods/Psi.jar",
+		"size":1757378,
+		"hash": "3932889010"
+	},{
+		"name": "QuarkOddities",
+		"url": "http://62.4.16.142/Kaiten/mods/QuarkOddities.jar",
+		"size":1556,
+		"hash": "1183394055"
+	},{
+		"name": "Quark",
+		"url": "http://62.4.16.142/Kaiten/mods/Quark.jar",
+		"size":3875942,
+		"hash": "1564475810"
+	},{
+		"name": "Roots",
+		"url": "http://62.4.16.142/Kaiten/mods/Roots.jar",
+		"size":1399458,
+		"hash": "951033859"
+	},{
+		"name": "StorageDrawers",
+		"url": "http://62.4.16.142/Kaiten/mods/StorageDrawers.jar",
+		"size":596220,
+		"hash": "1394684983"
+	},{
+		"name": "Thaumcraft6",
+		"url": "http://62.4.16.142/Kaiten/mods/Thaumcraft6.jar",
+		"size":11360786,
+		"hash": "2878563702"
+	},{
+		"name": "ThaumicJEI",
+		"url": "http://62.4.16.142/Kaiten/mods/ThaumicJEI.jar",
+		"size":59213,
+		"hash": "2647905127"
+	},{
+		"name": "Waystones",
+		"url": "http://62.4.16.142/Kaiten/mods/Waystones.jar",
+		"size":175462,
+		"hash": "2058586203"
+	},{
+		"name": "LagGoggles",
+		"url": "http://62.4.16.142/Kaiten/mods/LagGoggles.jar",
+		"size":1189936,
+		"hash": "1973552370"
+	},{
+		"name": "Bewitchment",
+		"url": "http://62.4.16.142/Kaiten/mods/Bewitchment.jar",
+		"size":7396456,
+		"hash": "1731982626"
+	},{
+		"name": "Dissolution",
+		"url": "http://62.4.16.142/Kaiten/mods/Dissolution.jar",
+		"size":570608,
+		"hash": "2311383965"
+	},{
+		"name": "LibNine",
+		"url": "http://62.4.16.142/Kaiten/mods/LibNine.jar",
+		"size":329038,
+		"hash": "1071067603"
+	},{
+		"name": "Psio",
+		"url": "http://62.4.16.142/Kaiten/mods/Psio.jar",
+		"size":285388,
+		"hash": "79559227"
+	},{
+		"name": "SpeedyHoppers",
+		"url": "http://62.4.16.142/Kaiten/mods/SpeedyHoppers.jar",
+		"size":35292,
+		"hash": "1184009865"
+	},{
+		"name": "ExtraBotany",
+		"url": "http://62.4.16.142/Kaiten/mods/ExtraBotany.jar",
+		"size":2573340,
+		"hash": "1458179768"
+	},{
+		"name": "GrimoireOfGaia3",
+		"url": "http://62.4.16.142/Kaiten/mods/GrimoireOfGaia3.jar",
+		"size":3643725,
+		"hash": "2894787150"
+	},{
+		"name": "ThaumicAugmentation",
+		"url": "http://62.4.16.142/Kaiten/mods/ThaumicAugmentation.jar",
+		"size":2678670,
+		"hash": "747073831"
+	},{
+		"name": "ThaumicWonders",
+		"url": "http://62.4.16.142/Kaiten/mods/thaumicwonders.jar",
+		"size":1236519,
+		"hash": "3896054080"
+	}],
+	"whitelist" : [],
+	"configs" : [{
+		"name":"mainmenu",
+		"path":"config/CustomMainMenu/mainmenu.json",
+		"url": "http://62.4.16.142/Kaiten/config/CustomMainMenu/mainmenu.json"	
+	},{
+		"name":"Quark",
+		"path":"config/quark.cfg",
+		"url": "http://62.4.16.142/Kaiten/config/quark.cfg"
+	},{
+		"name":"Server",
+		"path":"servers.dat",
+		"url": "http://62.4.16.142/Kaiten/servers.dat"
+	},{
+		"name":"Options",
+		"path":"options.txt",
+		"url": "http://62.4.16.142/Kaiten/options.txt"
+	},{
+		"name":"AstralSorcery",
+		"path":"config/astralsorcery.cfg",
+		"url": "http://62.4.16.142/Kaiten/config/astralsorcery.cfg"
+	}],
+	"other": [{
+		"type":"zip",
+		"name":"Natives",
+		"path":"natives.zip",
+		"futurepath":"natives/",
+		"url": "http://62.4.16.142/Kaiten/natives.zip"
+	},{
+		"type":"zip",
+		"name":"Assets",
+		"path":"assets.zip",
+		"futurepath":"assets/",
+		"url": "http://62.4.16.142/Kaiten/assets.zip"
+	},{
+		"type":"zip",
+		"name":"Libs",
+		"path":"libs.zip",
+		"futurepath":"libs/",
+		"url": "http://62.4.16.142/Kaiten/libs.zip"
+	},{
+		"type":"normal",
+		"name":"Minecraft 1.12.2",
+		"path":"bin/minecraft.jar",
+		"futurepath":"minecraft.jar",
+		"url": "http://62.4.16.142/Kaiten/minecraft.jar"}],
+	"remove": [{
+		"name":"Exemple",
+		"hash":"00000000"}]
+
+}
