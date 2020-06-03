@@ -1,1 +1,387 @@
-{"version": 1.0, "name": "Brocken Magic", "rule": "normal", "mods": [{"name": "BiblioCraft"}, {"name": "CoFHWorld"}, {"name": "ActuallyAdditions"}, {"name": "LagGoggles"}, {"name": "Botania"}, {"name": "JER"}, {"name": "Quark"}, {"name": "Guide-API"}, {"name": "AutoRegLib"}, {"name": "FastFurnace"}, {"name": "Performant"}, {"name": "RefinedStorage"}, {"name": "Decocraft"}, {"name": "CodeChickenLib"}, {"name": "Patchouli"}, {"name": "TConstruct"}, {"name": "EnderCore"}, {"name": "Mantle"}, {"name": "JEI"}, {"name": "RebornCore"}, {"name": "Phosphor"}, {"name": "Gendustry"}, {"name": "EmbersRekindled"}, {"name": "BloodArsenal"}, {"name": "Xnet"}, {"name": "RebornStorage"}, {"name": "ThermalExpansion"}, {"name": "PTRLib"}, {"name": "Bdlib"}, {"name": "BloodMagic"}, {"name": "NaturesAura"}, {"name": "Forestry"}, {"name": "GalacticraftCore"}, {"name": "Baubles"}, {"name": "TickCentral"}, {"name": "RedstoneFlux"}, {"name": "DragonMounts2"}, {"name": "JeiBees"}, {"name": "Galacticraft-Planets"}, {"name": "Mcjtylib"}, {"name": "Pneumaticcraft"}, {"name": "NotEnoughIDs"}, {"name": "MicdoodleCore"}, {"name": "Tombstone"}, {"name": "VanillaFix"}, {"name": "CoFHCore"}, {"name": "CTM"}, {"name": "RefinedStorageAddons"}, {"name": "Morph-o-Tool"}, {"name": "DoggyTalents"}, {"name": "EnderIO"}, {"name": "ThermalDynamics"}, {"name": "ExtrAutils2"}, {"name": "MysticalMechanics"}, {"name": "Chisel"}, {"name": "ThermalFoundation"}, {"name": "AstralSorcery"}, {"name": "Bewitchment"}]}
+{
+    "version": 1.0,
+    "name": "Brocken Magic",
+    "rule": "normal",
+    "mods": [
+        {
+            "name": "BiblioCraft",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/BiblioCraft.jar",
+            "size": 5122856,
+            "hash": 2835245663
+        },
+        {
+            "name": "CoFHWorld",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/CoFHWorld.jar",
+            "size": 505987,
+            "hash": 3453628240
+        },
+        {
+            "name": "ActuallyAdditions",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/ActuallyAdditions.jar",
+            "size": 2703860,
+            "hash": 3931436262
+        },
+        {
+            "name": "LagGoggles",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/LagGoggles.jar",
+            "size": 182688,
+            "hash": 2035372676
+        },
+        {
+            "name": "Botania",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Botania.jar",
+            "size": 13814617,
+            "hash": 2912908499
+        },
+        {
+            "name": "JER",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/JER.jar",
+            "size": 222270,
+            "hash": 1645465789
+        },
+        {
+            "name": "Quark",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Quark.jar",
+            "size": 3877577,
+            "hash": 2488409664
+        },
+        {
+            "name": "Guide-API",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Guide-API.jar",
+            "size": 169528,
+            "hash": 2610263572
+        },
+        {
+            "name": "AutoRegLib",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/AutoRegLib.jar",
+            "size": 108306,
+            "hash": 2439252668
+        },
+        {
+            "name": "FastFurnace",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/FastFurnace.jar",
+            "size": 10035,
+            "hash": 2999288828
+        },
+        {
+            "name": "Performant",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Performant.jar",
+            "size": 2466362,
+            "hash": 1452099665
+        },
+        {
+            "name": "RefinedStorage",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/RefinedStorage.jar",
+            "size": 1912377,
+            "hash": 2296213724
+        },
+        {
+            "name": "Decocraft",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Decocraft.jar",
+            "size": 16747522,
+            "hash": 2389695915
+        },
+        {
+            "name": "CodeChickenLib",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/CodeChickenLib.jar",
+            "size": 704330,
+            "hash": 4147323667
+        },
+        {
+            "name": "Patchouli",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Patchouli.jar",
+            "size": 466243,
+            "hash": 2908745251
+        },
+        {
+            "name": "TConstruct",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/TConstruct.jar",
+            "size": 4023372,
+            "hash": 1388090803
+        },
+        {
+            "name": "EnderCore",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/EnderCore.jar",
+            "size": 647452,
+            "hash": 113379117
+        },
+        {
+            "name": "Mantle",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Mantle.jar",
+            "size": 843486,
+            "hash": 2885722424
+        },
+        {
+            "name": "JEI",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/JEI.jar",
+            "size": 653044,
+            "hash": 3137212247
+        },
+        {
+            "name": "RebornCore",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/RebornCore.jar",
+            "size": 2429780,
+            "hash": 2951303663
+        },
+        {
+            "name": "Phosphor",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Phosphor.jar",
+            "size": 1082311,
+            "hash": 685974681
+        },
+        {
+            "name": "Gendustry",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Gendustry.jar",
+            "size": 1856305,
+            "hash": 2346505948
+        },
+        {
+            "name": "EmbersRekindled",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/EmbersRekindled.jar",
+            "size": 9792671,
+            "hash": 894314118
+        },
+        {
+            "name": "BloodArsenal",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/BloodArsenal.jar",
+            "size": 686217,
+            "hash": 2580147154
+        },
+        {
+            "name": "Xnet",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Xnet.jar",
+            "size": 496307,
+            "hash": 1473843017
+        },
+        {
+            "name": "RebornStorage",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/RebornStorage.jar",
+            "size": 80178,
+            "hash": 3923954111
+        },
+        {
+            "name": "ThermalExpansion",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/ThermalExpansion.jar",
+            "size": 2345139,
+            "hash": 1830570490
+        },
+        {
+            "name": "PTRLib",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/PTRLib.jar",
+            "size": 169483,
+            "hash": 4127752292
+        },
+        {
+            "name": "Bdlib",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Bdlib.jar",
+            "size": 1962731,
+            "hash": 160275794
+        },
+        {
+            "name": "BloodMagic",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/BloodMagic.jar",
+            "size": 7208594,
+            "hash": 3758110176
+        },
+        {
+            "name": "NaturesAura",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/NaturesAura.jar",
+            "size": 767012,
+            "hash": 1522337642
+        },
+        {
+            "name": "Forestry",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Forestry.jar",
+            "size": 5298295,
+            "hash": 1875848507
+        },
+        {
+            "name": "GalacticraftCore",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/GalacticraftCore.jar",
+            "size": 10610662,
+            "hash": 3565899222
+        },
+        {
+            "name": "Baubles",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Baubles.jar",
+            "size": 108450,
+            "hash": 2768018856
+        },
+        {
+            "name": "TickCentral",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/TickCentral.jar",
+            "size": 52840,
+            "hash": 1314282496
+        },
+        {
+            "name": "RedstoneFlux",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/RedstoneFlux.jar",
+            "size": 31802,
+            "hash": 2149558252
+        },
+        {
+            "name": "DragonMounts2",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/DragonMounts2.jar",
+            "size": 17289348,
+            "hash": 3368581533
+        },
+        {
+            "name": "JeiBees",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/JeiBees.jar",
+            "size": 117480,
+            "hash": 3264483269
+        },
+        {
+            "name": "Galacticraft-Planets",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Galacticraft-Planets.jar",
+            "size": 3975978,
+            "hash": 335858698
+        },
+        {
+            "name": "Mcjtylib",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Mcjtylib.jar",
+            "size": 544856,
+            "hash": 1724718534
+        },
+        {
+            "name": "Pneumaticcraft",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Pneumaticcraft.jar",
+            "size": 9534448,
+            "hash": 2539567054
+        },
+        {
+            "name": "NotEnoughIDs",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/NotEnoughIDs.jar",
+            "size": 31782,
+            "hash": 1216359638
+        },
+        {
+            "name": "MicdoodleCore",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/MicdoodleCore.jar",
+            "size": 53300,
+            "hash": 2549354639
+        },
+        {
+            "name": "Tombstone",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Tombstone.jar",
+            "size": 987787,
+            "hash": 526519943
+        },
+        {
+            "name": "VanillaFix",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/VanillaFix.jar",
+            "size": 1025896,
+            "hash": 1419556375
+        },
+        {
+            "name": "CoFHCore",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/CoFHCore.jar",
+            "size": 848187,
+            "hash": 1627289305
+        },
+        {
+            "name": "CTM",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/CTM.jar",
+            "size": 199045,
+            "hash": 1329553085
+        },
+        {
+            "name": "RefinedStorageAddons",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/RefinedStorageAddons.jar",
+            "size": 26804,
+            "hash": 2032073741
+        },
+        {
+            "name": "Morph-o-Tool",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Morph-o-Tool.jar",
+            "size": 30619,
+            "hash": 3774751708
+        },
+        {
+            "name": "DoggyTalents",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/DoggyTalents.jar",
+            "size": 790070,
+            "hash": 1295344550
+        },
+        {
+            "name": "EnderIO",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/EnderIO.jar",
+            "size": 8366769,
+            "hash": 636219196
+        },
+        {
+            "name": "ThermalDynamics",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/ThermalDynamics.jar",
+            "size": 728082,
+            "hash": 1717905992
+        },
+        {
+            "name": "ExtrAutils2",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/ExtrAutils2.jar",
+            "size": 3226408,
+            "hash": 2528265852
+        },
+        {
+            "name": "MysticalMechanics",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/MysticalMechanics.jar",
+            "size": 1839971,
+            "hash": 3056925317
+        },
+        {
+            "name": "Chisel",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Chisel.jar",
+            "size": 4755282,
+            "hash": 2139932375
+        },
+        {
+            "name": "ThermalFoundation",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/ThermalFoundation.jar",
+            "size": 2219736,
+            "hash": 3144072150
+        },
+        {
+            "name": "AstralSorcery",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/AstralSorcery.jar",
+            "size": 24976385,
+            "hash": 1143791308
+        },
+        {
+            "name": "Bewitchment",
+            "url": "https://github.com/uiytt/Kaiten-Magic-Launcher/raw/master/minecraft/mods/Bewitchment.jar",
+            "size": 7351656,
+            "hash": 2274164849
+        }
+    ],
+    "config": [],
+    "whitelist": [],
+    "other": [
+        {
+            "type": "zip",
+            "name": "Natives",
+            "path": "natives.zip",
+            "futurepath": "natives/",
+            "url": "https://brocken-magic.mtxserv.com/natives.zip"
+        },
+        {
+            "type": "zip",
+            "name": "Assets",
+            "path": "assets.zip",
+            "futurepath": "assets/",
+            "url": "https://brocken-magic.mtxserv.com/assets.zip"
+        },
+        {
+            "type": "zip",
+            "name": "Libs",
+            "path": "libs.zip",
+            "futurepath": "libs/",
+            "url": "https://brocken-magic.mtxserv.com/libs.zip"
+        },
+        {
+            "type": "normal",
+            "name": "Minecraft 1.12.2",
+            "path": "bin/minecraft.jar",
+            "futurepath": "minecraft.jar",
+            "url": "https://brocken-magic.mtxserv.com/minecraft.jar"
+        }
+    ]
+}
