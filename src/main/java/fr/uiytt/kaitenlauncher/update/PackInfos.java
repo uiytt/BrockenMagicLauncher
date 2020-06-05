@@ -20,9 +20,11 @@ public class PackInfos {
 		Scanner s;
 
 			URL url;
+
 			if(Config.debug) {
-				url = new URL("https://raw.githubusercontent.com/uiytt/Kaiten-Magic-Launcher/master/version.txt");
+				url = new URL("https://raw.githubusercontent.com/uiytt/BrockenMagicLauncher/master/version.txt");
 			} else {
+
 				url = new URL(Config.link_VersionModPack);
 			}
 			s = new Scanner(url.openStream());
@@ -33,16 +35,14 @@ public class PackInfos {
 		@SuppressWarnings("unused")
 		String new_version = s.nextLine();
 		Config.CRC = s.nextLine();
-		
 		s.close();
 		return;
 	}
 
 	public static boolean verify_modpack() {
 		Main.getFrame().getProgresstext().setText("Vérification des fichiers");
-		File downloadfile = new File(Config.DIR + "/download.json");
+		File downloadfile = new File(Config.DIR + "/launcher.json");
 		CRC32 crc = new CRC32();
-		//WARNING
 
 		if(!Config.debug) {
 			
@@ -59,15 +59,18 @@ public class PackInfos {
 			try {
 				URL website = new URL(Config.link);
 				ReadableByteChannel rbc = Channels.newChannel(website.openStream());
+
 				FileOutputStream fos = new FileOutputStream(downloadfile);
+
 				fos.getChannel().transferFrom(rbc, 0, Long.MAX_VALUE);
+
 				fos.close();
 			} catch (IOException e1) {
 				e1.printStackTrace();
 			}	
 		} 
 		}
-		Json jsondownloadlist = new Json("download",Config.DIR);
+		Json jsondownloadlist = new Json("launcher",Config.DIR);
 		ModpackDownload modpack = new ModpackDownload(jsondownloadlist);
 		Main.getFrame().getSpeedtext().setVisible(true);
 		Main.getFrame().getResumbutton().setVisible(false);

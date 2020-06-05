@@ -14,7 +14,7 @@ public class Config {
 	public static String DIR;
 	public static int ram = 6000;
 	public static String modpack_version = "1.0";
-	public static final String link_VersionModPack = "hhttps://github.com/uiytt/BrockenMagicLauncher/blob/master/version.txt";
+	public static final String link_VersionModPack = "https://raw.githubusercontent.com/uiytt/BrockenMagicLauncher/master/version.txt";
 	public static final boolean debug = false;
 	public static boolean a2v1 = false;
 

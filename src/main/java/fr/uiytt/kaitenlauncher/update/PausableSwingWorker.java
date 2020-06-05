@@ -23,13 +23,16 @@ public class PausableSwingWorker<T, V> extends SwingWorker<T, V> {
 		}
 		try {
 			PackInfos.checkforversion();
+
 			Main.getFrame().getProgressbar().setVisible(true);
 			Main.getFrame().getProgresstext().setVisible(true);
 			Main.getFrame().getProgressbar().setValue(Main.getFrame().getProgressbar().getMaximum());
+
 			if(PackInfos.verify_modpack()) {
+
 				Launch.launchgame();
 			}
-			
+
 		} catch (IOException e1){
 			JOptionPane.showMessageDialog(Main.getFrame().getLaunchbutton(),
 					"Erreur grave :\n Nous n'arrivons pas à contacter le serveur", "Erreur - 11", 0);

@@ -43,9 +43,11 @@ public class ModpackDownload {
 			} 
 			modsfolder.mkdir();
 		}
+
 		List<Long> hashinmods = new ArrayList<Long>();
 		List<Long> hashinJSON = new ArrayList<Long>();
 		HashMap<Long, File> hashremove = new HashMap<Long, File>();
+
 		CRC32 crc = new CRC32();
 		for (File child : modsfolder.listFiles()) {
 			if(!child.isDirectory()) {
@@ -59,15 +61,21 @@ public class ModpackDownload {
 				}
 			}
 		}
-		
+
 		this.nbr_mods = 0;
 		for(HashMap<?, ?> mod : mods) {
+
 			Long hash = Long.valueOf((String) mod.get("hash"));
+
 			hashinJSON.add(hash);
+
 			if(!hashinmods.contains(hash)) {
+
 				nbr_mods++;
 			}
+
 		}
+
 		
 		if(!this.type.equals("normal")) {
 			for (File child : modsfolder.listFiles()) {
@@ -87,6 +95,7 @@ public class ModpackDownload {
 				}
 			}
 		}
+
 		int index = 1;
 		Main.getFrame().getProgresstext().setText("Lancement du téléchargement");
 		for(HashMap<?, ?> mod : mods) {
@@ -106,7 +115,7 @@ public class ModpackDownload {
 			}
 			
 			
-			
+
 			String name = (String) mod.get("name"); 
 			File modfile = new File(Config.DIR + File.separator + "mods"+ File.separator  + name + ".jar");
 			crc.reset();
@@ -117,6 +126,7 @@ public class ModpackDownload {
 					e1.printStackTrace();
 				}
 			} 
+
 			Long crcfromhash = Long.valueOf((String) mod.get("hash"));
 			if(!hashinmods.contains(crcfromhash)) {
 				Main.getFrame().getProgresstext().setText("Téléchargement du mod " + String.valueOf(index) +"/"+String.valueOf(nbr_mods));
@@ -138,40 +148,48 @@ public class ModpackDownload {
 			
 			
 		}
-		for(HashMap<?, ?> config : this.configs) {
-			while(PausableSwingWorker.getWorker().isPaused()) {
+		System.out.println(this.configs.size());
+		if(this.configs.size() > 0) {
+			for(HashMap<?, ?> config : this.configs) {
+
+				while(PausableSwingWorker.getWorker().isPaused()) {
+					if(PausableSwingWorker.getWorker().isDone()) {
+						return false;
+					}
+					try {
+						Thread.sleep(1000);
+					} catch (InterruptedException e) {
+						e.printStackTrace();
+					}
+				}
 				if(PausableSwingWorker.getWorker().isDone()) {
 					return false;
 				}
-				try {
-					Thread.sleep(1000);
-				} catch (InterruptedException e) {
-					e.printStackTrace();
-				}
-			}
-			if(PausableSwingWorker.getWorker().isDone()) {
-				return false;
-			}
-			String path = (String) config.get("path");
-			File fileconf = new File(Config.DIR + File.separator +path);
-			if(!fileconf.exists()) {
-				Main.getFrame().getProgresstext().setText("Téléchargement des Configs");
-				String name = (String) config.get("name"); 
-				System.out.println("[LAUNCHER] Téléchargement de la config \"" + name + "\"");
-				fileconf.mkdirs();
-				fileconf.delete();
-				try {
-					URL website = new URL((String) config.get("url"));
-					fileconf.createNewFile();
-					(new DownloadFile(website, fileconf)).download();
-				} catch (IOException e) {
-					e.printStackTrace();
+
+				String path = (String) config.get("path");
+				File fileconf = new File(Config.DIR + File.separator +path);
+				System.out.println("test5.3");
+
+				if(!fileconf.exists()) {
+					Main.getFrame().getProgresstext().setText("Téléchargement des Configs");
+					String name = (String) config.get("name"); 
+					System.out.println("[LAUNCHER] Téléchargement de la config \"" + name + "\"");
+					fileconf.mkdirs();
+					fileconf.delete();
+					try {
+						URL website = new URL((String) config.get("url"));
+						fileconf.createNewFile();
+						(new DownloadFile(website, fileconf)).download();
+					} catch (IOException e) {
+						e.printStackTrace();
+					}
+					
 				}
 				
 			}
-			
 		}
 		
+
 		for(HashMap<?, ?> other : this.other) {
 			while(PausableSwingWorker.getWorker().isPaused()) {
 				if(PausableSwingWorker.getWorker().isDone()) {
@@ -230,7 +248,7 @@ public class ModpackDownload {
 			}
 			
 		}
-		
+
 		crc.reset();
 		if(this.remove != null) {
 			for(HashMap<?, ?> remove : this.remove) {
