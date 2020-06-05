@@ -1,4 +1,4 @@
-package fr.uiytt.kaitenlauncher.update;
+package fr.uiytt.brokenmagiclauncher.update;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -10,8 +10,8 @@ import java.util.Scanner;
 import java.util.zip.CRC32;
 
 import de.leonhard.storage.Json;
-import fr.uiytt.kaitenlauncher.Config;
-import fr.uiytt.kaitenlauncher.Main;
+import fr.uiytt.brokenmagiclauncher.Config;
+import fr.uiytt.brokenmagiclauncher.Main;
 
 
 public class PackInfos {

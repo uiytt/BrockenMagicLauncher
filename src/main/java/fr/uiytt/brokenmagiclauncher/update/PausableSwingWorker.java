@@ -1,13 +1,13 @@
-package fr.uiytt.kaitenlauncher.update;
+package fr.uiytt.brokenmagiclauncher.update;
 
 import java.io.IOException;
 
 import javax.swing.JOptionPane;
 import javax.swing.SwingWorker;
 
-import fr.uiytt.kaitenlauncher.Launch;
-import fr.uiytt.kaitenlauncher.Main;
-import fr.uiytt.kaitenlauncher.auth.Auth;
+import fr.uiytt.brokenmagiclauncher.Launch;
+import fr.uiytt.brokenmagiclauncher.Main;
+import fr.uiytt.brokenmagiclauncher.auth.Auth;
 
 
 

@@ -1,4 +1,4 @@
-package fr.uiytt.kaitenlauncher.auth;
+package fr.uiytt.brokenmagiclauncher.auth;
 
 import java.awt.image.BufferedImage;
 import java.io.IOException;
@@ -9,8 +9,8 @@ import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 
 import fr.theshark34.openlauncherlib.minecraft.AuthInfos;
-import fr.uiytt.kaitenlauncher.Config;
-import fr.uiytt.kaitenlauncher.Main;
+import fr.uiytt.brokenmagiclauncher.Config;
+import fr.uiytt.brokenmagiclauncher.Main;
 
 public class Auth {
 	private static AuthInfos authinfos;

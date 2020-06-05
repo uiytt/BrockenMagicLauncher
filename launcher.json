@@ -370,7 +370,13 @@
             "hash": "2274164849"
         }
     ],
-    "configs": [],
+    "configs": [
+        {
+            "name": "quark.cfg",
+            "path": "configs/quark.cfg",
+            "url": "https://github.com/uiytt/BrockenMagicLauncher/raw/master/minecraft/configs/quark.cfg"
+        }
+    ],
     "whitelist": [],
     "other": [
         {
@@ -400,6 +406,20 @@
             "path": "bin/minecraft.jar",
             "futurepath": "minecraft.jar",
             "url": "https://brocken-magic.mtxserv.com/minecraft.jar"
+        },
+        {
+            "type": "normal",
+            "name": "servers",
+            "path": "servers.dat",
+            "futurepath": "servers.dat",
+            "url": "https://github.com/uiytt/BrockenMagicLauncher/raw/master/minecraft/servers.dat"
+        },
+        {
+            "type": "normal",
+            "name": "options",
+            "path": "options.txt",
+            "futurepath": "options.txt",
+            "url": "https://github.com/uiytt/BrockenMagicLauncher/raw/master/minecraft/options.txt"
         }
     ]
 }

@@ -1,4 +1,4 @@
-package fr.uiytt.kaitenlauncher;
+package fr.uiytt.brokenmagiclauncher;
 
 import java.io.File;
 import java.io.IOException;
@@ -14,8 +14,8 @@ import fr.theshark34.openlauncherlib.minecraft.GameInfos;
 import fr.theshark34.openlauncherlib.minecraft.GameTweak;
 import fr.theshark34.openlauncherlib.minecraft.MinecraftLauncher;
 import fr.theshark34.openlauncherlib.util.ProcessLogManager;
-import fr.uiytt.kaitenlauncher.auth.Auth;
-import fr.uiytt.kaitenlauncher.update.PackInfos;
+import fr.uiytt.brokenmagiclauncher.auth.Auth;
+import fr.uiytt.brokenmagiclauncher.update.PackInfos;
 
 public class Launch {
 	public static void launchgame() throws LaunchException {

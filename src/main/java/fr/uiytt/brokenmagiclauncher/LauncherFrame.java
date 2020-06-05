@@ -1,4 +1,4 @@
-package fr.uiytt.kaitenlauncher;
+package fr.uiytt.brokenmagiclauncher;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
@@ -39,8 +39,8 @@ import javax.swing.text.SimpleAttributeSet;
 import javax.swing.text.StyleConstants;
 import javax.swing.text.StyledDocument;
 
-import fr.uiytt.kaitenlauncher.update.PackInfos;
-import fr.uiytt.kaitenlauncher.update.PausableSwingWorker;
+import fr.uiytt.brokenmagiclauncher.update.PackInfos;
+import fr.uiytt.brokenmagiclauncher.update.PausableSwingWorker;
 
 public class LauncherFrame {
 	private JFrame guiFrame;
@@ -193,7 +193,8 @@ public class LauncherFrame {
 		InputStream res = Main.class.getResourceAsStream("/fr/uiytt/kaitenlauncher/img/launchbutton1.png");
 		BufferedImage img = ImageIO.read(res);
 		this.launchbutton = new JButton(new ImageIcon(img));
-		this.launchbutton.setBounds(548, 511, 267, 60);
+		this.launchbutton.setBounds(590, 511, 267, 60); 
+		
 		this.launchbutton.setContentAreaFilled(false);
 		this.launchbutton.setBorderPainted(false);
 		this.launchbutton.setFocusPainted(false);
@@ -243,7 +244,7 @@ public class LauncherFrame {
 		});
 
 		this.configbutton = new JButton();
-		this.configbutton.setBounds(465, 511, 60, 60);
+		this.configbutton.setBounds(506, 511, 60, 60);
 		this.configbutton.setContentAreaFilled(false);
 		this.configbutton.setBorderPainted(false);
 		this.configbutton.setFocusPainted(false);
@@ -473,7 +474,7 @@ public class LauncherFrame {
 		res = Main.class.getResourceAsStream("/fr/uiytt/kaitenlauncher/img/websitebutton.png");
 		img = ImageIO.read(res);
 		this.websitebutton = new JButton(new ImageIcon(img));
-		this.websitebutton.setBounds(375, 511, 60, 60);
+		this.websitebutton.setBounds(424, 511, 60, 60); //def = 375 511
 		this.websitebutton.setContentAreaFilled(false);
 		this.websitebutton.setBorderPainted(false);
 		this.websitebutton.setFocusPainted(false);
@@ -660,7 +661,7 @@ public class LauncherFrame {
 					}
 					Config.writeModPackVersion("0.1");
 					Config.modpack_version = "0.1";
-					JOptionPane.showMessageDialog(Main.getFrame().configbutton, "Launcher r�par�");
+					JOptionPane.showMessageDialog(Main.getFrame().configbutton, "Launcher réparé");
 
 					return;
 				}

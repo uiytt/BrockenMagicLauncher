@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>fr.uiytt.kaitenlauncher</groupId>
-	<artifactId>kaitenlauncher</artifactId>
+	<groupId>fr.uiytt.brokenmagiclauncher</groupId>
+	<artifactId>BrokenMagicLauncher</artifactId>
 	<packaging>jar</packaging>
 	<version>2.3.3</version>
-	<name>Kaiten Launcher</name>
-	<description>Launcher pour Kaiten Magic</description>
+	<name>BrokenMagicLauncher</name>
+	<description>Launcher pour BrokenMagic</description>
 	<repositories>
 		<repository>
 			<id>jitpack.io</id>
@@ -51,7 +51,7 @@
      </descriptorRefs>
      <archive>
       <manifest>
-       <mainClass>fr.uiytt.kaitenlauncher.Main</mainClass>
+       <mainClass>fr.uiytt.brokenmagiclauncher.Main</mainClass>
       </manifest>
      </archive>
     </configuration>

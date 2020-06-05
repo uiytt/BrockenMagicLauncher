@@ -1,4 +1,4 @@
-package fr.uiytt.kaitenlauncher.update;
+package fr.uiytt.brokenmagiclauncher.update;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -13,8 +13,8 @@ import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
 import de.leonhard.storage.Json;
-import fr.uiytt.kaitenlauncher.Config;
-import fr.uiytt.kaitenlauncher.Main;
+import fr.uiytt.brokenmagiclauncher.Config;
+import fr.uiytt.brokenmagiclauncher.Main;
 
 public class ModpackDownload {
 	private int nbr_mods;

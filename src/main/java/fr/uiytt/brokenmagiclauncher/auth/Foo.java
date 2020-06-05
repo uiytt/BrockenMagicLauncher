@@ -1,4 +1,4 @@
-package fr.uiytt.kaitenlauncher.auth;
+package fr.uiytt.brokenmagiclauncher.auth;
 
 
 import javax.swing.JOptionPane;
@@ -9,7 +9,7 @@ import fr.litarvan.openauth.Authenticator;
 import fr.litarvan.openauth.model.AuthAgent;
 import fr.litarvan.openauth.model.response.AuthResponse;
 import fr.theshark34.openlauncherlib.minecraft.AuthInfos;
-import fr.uiytt.kaitenlauncher.Main;
+import fr.uiytt.brokenmagiclauncher.Main;
 
 public class Foo implements Runnable {
 	private String username;

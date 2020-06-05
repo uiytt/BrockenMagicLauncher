@@ -1,4 +1,4 @@
-package fr.uiytt.kaitenlauncher.update;
+package fr.uiytt.brokenmagiclauncher.update;
 
 import java.io.BufferedOutputStream;
 import java.io.File;
@@ -8,7 +8,7 @@ import java.net.URL;
 
 import javax.swing.SwingUtilities;
 
-import fr.uiytt.kaitenlauncher.Main;
+import fr.uiytt.brokenmagiclauncher.Main;
 
 public class DownloadFile {
 	private URL url;

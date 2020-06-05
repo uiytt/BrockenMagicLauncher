@@ -1,4 +1,4 @@
-package fr.uiytt.kaitenlauncher;
+package fr.uiytt.brokenmagiclauncher;
 
 public class GuiRunnable implements Runnable {
 

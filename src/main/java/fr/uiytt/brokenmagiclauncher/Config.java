@@ -1,4 +1,4 @@
-package fr.uiytt.kaitenlauncher;
+package fr.uiytt.brokenmagiclauncher;
 
 import java.io.File;
 import java.io.FileInputStream;
