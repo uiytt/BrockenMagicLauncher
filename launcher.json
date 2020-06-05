@@ -373,8 +373,8 @@
     "configs": [
         {
             "name": "quark.cfg",
-            "path": "configs/quark.cfg",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/configs/quark.cfg"
+            "path": "config/quark.cfg",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/quark.cfg"
         }
     ],
     "whitelist": [],
