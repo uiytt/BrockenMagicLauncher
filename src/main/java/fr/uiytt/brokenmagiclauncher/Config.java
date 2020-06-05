@@ -8,13 +8,13 @@ import java.util.Properties;
 
 public class Config {
 	public static final String version = "1.1";
-	public static final String name = "Brocken Magic";
+	public static final String name = "Broken Magic";
 	public static String user = "";
 	public static String password = "";
 	public static String DIR;
 	public static int ram = 6000;
 	public static String modpack_version = "1.0";
-	public static final String link_VersionModPack = "https://raw.githubusercontent.com/uiytt/BrockenMagicLauncher/master/version.txt";
+	public static final String link_VersionModPack = "https://raw.githubusercontent.com/uiytt/BrokenMagicLauncher/master/version.txt";
 	public static final boolean debug = false;
 	public static boolean a2v1 = false;
 

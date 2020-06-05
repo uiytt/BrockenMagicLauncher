@@ -22,7 +22,7 @@ public class PackInfos {
 			URL url;
 
 			if(Config.debug) {
-				url = new URL("https://raw.githubusercontent.com/uiytt/BrockenMagicLauncher/master/version.txt");
+				url = new URL("https://raw.githubusercontent.com/uiytt/BrokenMagicLauncher/master/version.txt");
 			} else {
 
 				url = new URL(Config.link_VersionModPack);
