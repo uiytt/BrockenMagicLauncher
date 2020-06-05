@@ -1,3 +1,3 @@
 https://raw.githubusercontent.com/uiytt/BrockenMagicLauncher/master/launcher.json
-1.1
-2536951871
+1.2
+975762149
