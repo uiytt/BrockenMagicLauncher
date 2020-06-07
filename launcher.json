@@ -52,6 +52,12 @@
             "hash": "2610263572"
         },
         {
+            "name": "MoreOverlays",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/MoreOverlays.jar",
+            "size": 36698,
+            "hash": "3040586377"
+        },
+        {
             "name": "AutoRegLib",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/AutoRegLib.jar",
             "size": 108306,
@@ -62,12 +68,6 @@
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/FastFurnace.jar",
             "size": 10035,
             "hash": "2999288828"
-        },
-        {
-            "name": "Performant",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Performant.jar",
-            "size": 2466362,
-            "hash": "1452099665"
         },
         {
             "name": "RefinedStorage",
@@ -176,6 +176,12 @@
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/PTRLib.jar",
             "size": 169483,
             "hash": "4127752292"
+        },
+        {
+            "name": "Optifine",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Optifine.jar",
+            "size": 2598821,
+            "hash": "2029496670"
         },
         {
             "name": "Bdlib",
