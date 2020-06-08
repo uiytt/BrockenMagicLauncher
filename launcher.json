@@ -238,6 +238,12 @@
             "hash": "2149558252"
         },
         {
+            "name": "OpenModsLib",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/OpenModsLib.jar",
+            "size": 2639587,
+            "hash": "2044378825"
+        },
+        {
             "name": "DragonMounts2",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/DragonMounts2.jar",
             "size": 17289348,
@@ -260,6 +266,12 @@
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Mcjtylib.jar",
             "size": 544856,
             "hash": "1724718534"
+        },
+        {
+            "name": "OpenBlocks",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/OpenBlocks.jar",
+            "size": 3217616,
+            "hash": "3807164952"
         },
         {
             "name": "Pneumaticcraft",
@@ -328,6 +340,12 @@
             "hash": "1295344550"
         },
         {
+            "name": "CraftTweaker2",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/CraftTweaker2.jar",
+            "size": 1431822,
+            "hash": "1546517750"
+        },
+        {
             "name": "EnderIO",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/EnderIO.jar",
             "size": 8366769,
@@ -378,6 +396,16 @@
     ],
     "configs": [
         {
+            "name": "openblocks.cfg",
+            "path": "config/openblocks.cfg",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/openblocks.cfg"
+        },
+        {
+            "name": "extrautils2.cfg",
+            "path": "config/extrautils2.cfg",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/extrautils2.cfg"
+        },
+        {
             "name": "quark.cfg",
             "path": "config/quark.cfg",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/quark.cfg"
@@ -426,6 +454,13 @@
             "path": "options.txt",
             "futurepath": "options.txt",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/options.txt"
+        },
+        {
+            "type": "normal",
+            "name": "Crafts",
+            "path": "scripts/craftmodify.zs",
+            "futurepath": "craftmodify.zs",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/scripts/craftmodify.zs"
         }
     ]
 }
