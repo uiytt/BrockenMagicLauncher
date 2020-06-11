@@ -1,4 +1,5 @@
 recipes.remove(<botania:spawnerclaw>);
+recipes.remove(<pneumaticcraft:spawner_agitator>);
 
 recipes.remove(<extrautils2:drum:0>);
 recipes.remove(<extrautils2:drum:1>);
