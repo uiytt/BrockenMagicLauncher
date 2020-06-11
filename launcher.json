@@ -6,8 +6,8 @@
         {
             "name": "BiblioCraft",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/BiblioCraft.jar",
-            "size": 5157596,
-            "hash": "2040798751"
+            "size": 5418249,
+            "hash": "60672910"
         },
         {
             "name": "CoFHWorld",
@@ -406,6 +406,11 @@
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/openblocks.cfg"
         },
         {
+            "name": "cofh",
+            "path": "config/cofh",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/cofh"
+        },
+        {
             "name": "embers.cfg",
             "path": "config/embers.cfg",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/embers.cfg"
@@ -414,6 +419,11 @@
             "name": "extrautils2.cfg",
             "path": "config/extrautils2.cfg",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/extrautils2.cfg"
+        },
+        {
+            "name": "tombstone.cfg",
+            "path": "config/tombstone.cfg",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/tombstone.cfg"
         },
         {
             "name": "quark.cfg",
@@ -428,28 +438,28 @@
             "name": "Natives",
             "path": "natives.zip",
             "futurepath": "natives/",
-            "url": "https://broken-magic.mtxserv.com/natives.zip"
+            "url": "https://brocken-magic.mtxserv.com/natives.zip"
         },
         {
             "type": "zip",
             "name": "Assets",
             "path": "assets.zip",
             "futurepath": "assets/",
-            "url": "https://broken-magic.mtxserv.com/assets.zip"
+            "url": "https://brocken-magic.mtxserv.com/assets.zip"
         },
         {
             "type": "zip",
             "name": "Libs",
             "path": "libs.zip",
             "futurepath": "libs/",
-            "url": "https://broken-magic.mtxserv.com/libs.zip"
+            "url": "https://brocken-magic.mtxserv.com/libs.zip"
         },
         {
             "type": "normal",
             "name": "Minecraft 1.12.2",
             "path": "bin/minecraft.jar",
             "futurepath": "minecraft.jar",
-            "url": "https://broken-magic.mtxserv.com/minecraft.jar"
+            "url": "https://brocken-magic.mtxserv.com/minecraft.jar"
         },
         {
             "type": "normal",
