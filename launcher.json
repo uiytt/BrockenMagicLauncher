@@ -6,8 +6,8 @@
         {
             "name": "BiblioCraft",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/BiblioCraft.jar",
-            "size": 5122856,
-            "hash": "2835245663"
+            "size": 5157596,
+            "hash": "2040798751"
         },
         {
             "name": "CoFHWorld",
@@ -396,9 +396,19 @@
     ],
     "configs": [
         {
+            "name": "Bewitchment.cfg",
+            "path": "config/Bewitchment.cfg",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/Bewitchment.cfg"
+        },
+        {
             "name": "openblocks.cfg",
             "path": "config/openblocks.cfg",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/openblocks.cfg"
+        },
+        {
+            "name": "embers.cfg",
+            "path": "config/embers.cfg",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/embers.cfg"
         },
         {
             "name": "extrautils2.cfg",
