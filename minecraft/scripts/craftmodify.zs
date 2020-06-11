@@ -6,7 +6,7 @@ recipes.remove(<extrautils2:drum:2>);
 recipes.remove(<extrautils2:drum:3>);
 
 recipes.addShaped("broken_extrautils2_drum0", <extrautils2:drum:0>, [
-    [<minecraft:stone>, <minecraft:stone_slab>, <minecraft:stone>],
+    [<ore:stone>, <minecraft:stone_slab>, <ore:stone>],
     [<ore:cobblestone>,<minecraft:bowl>, <ore:cobblestone>],
     [<minecraft:obsidian>, <minecraft:stone_slab>,<minecraft:obsidian>]
 ]);
