@@ -406,11 +406,6 @@
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/openblocks.cfg"
         },
         {
-            "name": "cofh",
-            "path": "config/cofh",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/cofh"
-        },
-        {
             "name": "embers.cfg",
             "path": "config/embers.cfg",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/embers.cfg"
@@ -429,6 +424,16 @@
             "name": "quark.cfg",
             "path": "config/quark.cfg",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/quark.cfg"
+        },
+        {
+            "name": "spawner.xml",
+            "path": "config/enderio/recipes/user/spawner.xml",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/enderio/recipes/user/spawner.xml"
+        },
+        {
+            "name": "common.cfg",
+            "path": "config/cofh/core/common.cfg",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/cofh/core/common.cfg"
         }
     ],
     "whitelist": [],
