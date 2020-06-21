@@ -215,7 +215,7 @@ public class ModpackDownload {
 				
 			}
 			
-			if(!fileother.exists() || forceupdate != null) {
+			if(!fileother.exists() || (forceupdate != null && !Config.new_version.equalsIgnoreCase(Config.modpack_version))) {
 				
 				fileother = new File(Config.DIR + File.separator +path);
 				String name = (String) other.get("name");
