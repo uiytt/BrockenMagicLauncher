@@ -426,6 +426,11 @@
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/quark.cfg"
         },
         {
+            "name": "spawner.xml",
+            "path": "config/enderio/recipes/user/spawner.xml",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/enderio/recipes/user/spawner.xml"
+        },
+        {
             "name": "common.cfg",
             "path": "config/cofh/core/common.cfg",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/cofh/core/common.cfg"
