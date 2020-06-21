@@ -148,7 +148,6 @@ public class ModpackDownload {
 			
 			
 		}
-		System.out.println(this.configs.size());
 		if(this.configs.size() > 0) {
 			for(HashMap<?, ?> config : this.configs) {
 
@@ -168,9 +167,8 @@ public class ModpackDownload {
 
 				String path = (String) config.get("path");
 				File fileconf = new File(Config.DIR + File.separator +path);
-				System.out.println("test5.3");
 
-				if(!fileconf.exists()) {
+				if(!fileconf.exists() || !Config.new_version.equalsIgnoreCase(Config.modpack_version)) {
 					Main.getFrame().getProgresstext().setText("Téléchargement des Configs");
 					String name = (String) config.get("name"); 
 					System.out.println("[LAUNCHER] Téléchargement de la config \"" + name + "\"");
@@ -206,6 +204,7 @@ public class ModpackDownload {
 			}
 			String type = (String) other.get("type");
 			String path = (String) other.get("path");
+			Boolean forceupdate = (Boolean) other.get("forceupdate");
 			File fileother;
 			if(type.equalsIgnoreCase("zip")) {
 				
@@ -216,7 +215,7 @@ public class ModpackDownload {
 				
 			}
 			
-			if(!fileother.exists()) {
+			if(!fileother.exists() || forceupdate != null) {
 				
 				fileother = new File(Config.DIR + File.separator +path);
 				String name = (String) other.get("name");

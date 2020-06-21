@@ -32,8 +32,7 @@ public class PackInfos {
 
 
 		Config.link = s.nextLine();
-		@SuppressWarnings("unused")
-		String new_version = s.nextLine();
+		Config.new_version = s.nextLine();
 		Config.CRC = s.nextLine();
 		s.close();
 		return;

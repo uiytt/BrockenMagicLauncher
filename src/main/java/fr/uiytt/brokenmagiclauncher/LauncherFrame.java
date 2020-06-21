@@ -652,8 +652,8 @@ public class LauncherFrame {
 		this.repairbutton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				if (JOptionPane.showConfirmDialog(Main.getFrame().configbutton,
-						"Voulez vous essayer de r�parer le launcher ? \n /!\\ Cela supprimera tout vos dossiers du launcher",
-						"R�parer le launcher ?", 2) == 0) {
+						"Voulez vous essayer de réparer le launcher ? \n /!\\ Cela supprimera tout vos dossiers du launcher",
+						"Réparer le launcher ?", 2) == 0) {
 					Main.getFrame().enableAll();
 					if ((new File(Config.DIR)).isDirectory()) {
 						PackInfos.deleteFolder(new File(Config.DIR));

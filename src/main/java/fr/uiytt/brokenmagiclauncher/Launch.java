@@ -36,7 +36,7 @@ public class Launch {
 			ProcessLogManager log = new ProcessLogManager(p.getInputStream(),
 					new File(String.valueOf(Config.DIR) + File.separator + "logs" + File.separator + "latest.txt"));
 			log.start();
-			Config.writeModPackVersion("0.1");
+			Config.writeModPackVersion(Config.new_version);
 			try {
 				Thread.sleep(5000L);
 				Main.getFrame().getGuiFrame().setVisible(false);
