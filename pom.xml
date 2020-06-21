@@ -3,7 +3,7 @@
 	<groupId>fr.uiytt.brokenmagiclauncher</groupId>
 	<artifactId>BrokenMagicLauncher</artifactId>
 	<packaging>jar</packaging>
-	<version>2.3.3</version>
+	<version>2.3.4</version>
 	<name>BrokenMagicLauncher</name>
 	<description>Launcher pour BrokenMagic</description>
 	<repositories>
