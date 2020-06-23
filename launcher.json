@@ -443,28 +443,28 @@
             "name": "Natives",
             "path": "natives.zip",
             "futurepath": "natives/",
-            "url": "https://brocken-magic.mtxserv.com/natives.zip"
+            "url": "https://broken-magic.mtxserv.com/natives.zip"
         },
         {
             "type": "zip",
             "name": "Assets",
             "path": "assets.zip",
             "futurepath": "assets/",
-            "url": "https://brocken-magic.mtxserv.com/assets.zip"
+            "url": "https://broken-magic.mtxserv.com/assets.zip"
         },
         {
             "type": "zip",
             "name": "Libs",
             "path": "libs.zip",
             "futurepath": "libs/",
-            "url": "https://brocken-magic.mtxserv.com/libs.zip"
+            "url": "https://broken-magic.mtxserv.com/libs.zip"
         },
         {
             "type": "normal",
             "name": "Minecraft 1.12.2",
             "path": "bin/minecraft.jar",
             "futurepath": "minecraft.jar",
-            "url": "https://brocken-magic.mtxserv.com/minecraft.jar"
+            "url": "https://broken-magic.mtxserv.com/minecraft.jar"
         },
         {
             "type": "normal",
