@@ -487,7 +487,7 @@ public class LauncherFrame {
 				if (desktop != null && desktop.isSupported(Desktop.Action.BROWSE)) {
 
 					try {
-						desktop.browse(new URI("http://www.kaitencompagnie.com/"));
+						desktop.browse(new URI("https://broken-magic.mtxserv.com/"));
 					} catch (IOException e1) {
 						e1.printStackTrace();
 					} catch (URISyntaxException e1) {
