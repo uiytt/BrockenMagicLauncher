@@ -154,12 +154,6 @@
             "hash": "2580147154"
         },
         {
-            "name": "Xnet",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Xnet.jar",
-            "size": 496307,
-            "hash": "1473843017"
-        },
-        {
             "name": "RebornStorage",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/RebornStorage.jar",
             "size": 80178,
