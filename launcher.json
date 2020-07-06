@@ -178,12 +178,6 @@
             "hash": "4127752292"
         },
         {
-            "name": "Optifine",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Optifine.jar",
-            "size": 2598821,
-            "hash": "2029496670"
-        },
-        {
             "name": "Bdlib",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Bdlib.jar",
             "size": 1962731,
@@ -411,6 +405,11 @@
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/embers.cfg"
         },
         {
+            "name": "naturesaura.cfg",
+            "path": "config/naturesaura.cfg",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/naturesaura.cfg"
+        },
+        {
             "name": "extrautils2.cfg",
             "path": "config/extrautils2.cfg",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/extrautils2.cfg"
@@ -443,28 +442,28 @@
             "name": "Natives",
             "path": "natives.zip",
             "futurepath": "natives/",
-            "url": "https://broken-magic.mtxserv.com/natives.zip"
+            "url": "https://brocken-magic.mtxserv.com/natives.zip"
         },
         {
             "type": "zip",
             "name": "Assets",
             "path": "assets.zip",
             "futurepath": "assets/",
-            "url": "https://broken-magic.mtxserv.com/assets.zip"
+            "url": "https://brocken-magic.mtxserv.com/assets.zip"
         },
         {
             "type": "zip",
             "name": "Libs",
             "path": "libs.zip",
             "futurepath": "libs/",
-            "url": "https://broken-magic.mtxserv.com/libs.zip"
+            "url": "https://brocken-magic.mtxserv.com/libs.zip"
         },
         {
             "type": "normal",
             "name": "Minecraft 1.12.2",
             "path": "bin/minecraft.jar",
             "futurepath": "minecraft.jar",
-            "url": "https://broken-magic.mtxserv.com/minecraft.jar"
+            "url": "https://brocken-magic.mtxserv.com/minecraft.jar"
         },
         {
             "type": "normal",
