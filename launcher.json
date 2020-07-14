@@ -172,6 +172,12 @@
             "hash": "4127752292"
         },
         {
+            "name": "SecurityCraft",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/SecurityCraft.jar",
+            "size": 1697272,
+            "hash": "2272896916"
+        },
+        {
             "name": "Bdlib",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Bdlib.jar",
             "size": 1962731,
@@ -407,6 +413,11 @@
             "name": "extrautils2.cfg",
             "path": "config/extrautils2.cfg",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/extrautils2.cfg"
+        },
+        {
+            "name": "securitycraft.cfg",
+            "path": "config/securitycraft.cfg",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/securitycraft.cfg"
         },
         {
             "name": "tombstone.cfg",

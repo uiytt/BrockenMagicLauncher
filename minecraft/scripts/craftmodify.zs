@@ -38,4 +38,36 @@ recipes.addShaped("broken_solar4", <galacticraftcore:solar:4>, [
 ]);
 
 
+//EFLN (explosion)
+recipes.remove(<tconstruct:throwball:1>);
+recipes.addShapeless("broken_tconstructEFLN", <tconstruct:throwball:1>, [<minecraft:flint>,<minecraft:gunpowder>,<ore:blockCopper>]);
 
+//SecurityCraft
+recipes.removeByRegex(".+\\sMine");
+recipes.addShaped("broken_mine", <securitycraft:mine> * 3, [
+    [null, <minecraft:diamond>, null],
+    [<enderio:item_basic_capacitor:1>,<minecraft:iron_ingot>, <enderio:item_basic_capacitor:1>],
+    [<minecraft:iron_ingot>, <minecraft:tnt>,<minecraft:iron_ingot>]
+]);
+recipes.remove(<securitycraft:universal_block_reinforcer_lvl1>);
+recipes.remove(<securitycraft:universal_block_reinforcer_lvl2>);
+recipes.remove(<securitycraft:universal_block_reinforcer_lvl3>);
+recipes.addShaped("broken_reinforcer", <securitycraft:universal_block_reinforcer_lvl1>, [
+    [null, <pneumaticcraft:programming_puzzle:1>, <extrautils2:opinium:6>],
+    [<minecraft:emerald_block>,<minecraft:nether_star>, <bewitchment:sanguine_cloth>],
+    [<enderio:item_material:71>, <minecraft:emerald_block>,null]
+]);
+recipes.remove(<securitycraft:codebreaker>);
+recipes.addShaped("broken_codebreaker",<securitycraft:codebreaker>, [
+    [<minecraft:diamond>, <enderio:item_basic_capacitor:2>, <minecraft:diamond>],
+    [<minecraft:gold_ingot>,<minecraft:skull:5>, <minecraft:gold_ingot>],
+    [<quark:rune:*>, <refinedstorage:storage_part:3>,<quark:rune:*>]
+]);
+
+// Tablet of cupidity
+recipes.remove(<tombstone:tablet_of_cupidity>);
+recipes.addShaped("broken_tablet_of_cupidity",<tombstone:tablet_of_cupidity>, [
+    [<enderio:block_enderman_skull:2>, <minecraft:gold_block>, <enderio:block_enderman_skull:2>],
+    [<botania:lightrelay:0>,<minecraft:diamond_block>, <botania:lightrelay:0>],
+    [<enderio:block_enderman_skull:2>, <minecraft:gold_block>,<enderio:block_enderman_skull:2>]
+]);
