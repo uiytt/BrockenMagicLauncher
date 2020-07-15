@@ -73,6 +73,6 @@ recipes.addShaped("broken_tablet_of_cupidity",<tombstone:tablet_of_cupidity>, [
 ]);
 
 
-recipes.replaceAllOccurences(<securitycraft:reinforcer_stone>, <minecraft:obsidian>);
-recipes.replaceAllOccurences(<securitycraft:reinforcer_metals:*>, <minecraft:gold_block>);
+recipes.replaceAllOccurences(<securitycraft:reinforced_stone>, <minecraft:obsidian>);
+recipes.replaceAllOccurences(<securitycraft:reinforced_metals:*>, <minecraft:gold_block>);
 
