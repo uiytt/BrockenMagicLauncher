@@ -43,7 +43,7 @@ recipes.remove(<tconstruct:throwball:1>);
 recipes.addShapeless("broken_tconstructEFLN", <tconstruct:throwball:1>, [<minecraft:flint>,<minecraft:gunpowder>,<ore:blockCopper>]);
 
 //SecurityCraft
-recipes.removeByRegex(".+\\sMine");
+recipes.removeByRegex("securitycraft:(.*)mine");
 recipes.addShaped("broken_mine", <securitycraft:mine> * 3, [
     [null, <minecraft:diamond>, null],
     [<enderio:item_basic_capacitor:1>,<minecraft:iron_ingot>, <enderio:item_basic_capacitor:1>],
@@ -71,3 +71,8 @@ recipes.addShaped("broken_tablet_of_cupidity",<tombstone:tablet_of_cupidity>, [
     [<botania:lightrelay:0>,<minecraft:diamond_block>, <botania:lightrelay:0>],
     [<enderio:block_enderman_skull:2>, <minecraft:gold_block>,<enderio:block_enderman_skull:2>]
 ]);
+
+
+recipes.replaceAllOccurences(<securitycraft:reinforcer_stone>, <minecraft:obsidian>);
+recipes.replaceAllOccurences(<securitycraft:reinforcer_metals:*>, <minecraft:gold_block>);
+

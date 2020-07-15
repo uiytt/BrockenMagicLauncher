@@ -27,6 +27,10 @@ Bad planning by me
 <recipe name="Spawner, defaults" required="true">
 <spawning>
     <entity name="minecraft:villager" costMultiplier="4.0" disabled="false" /> <!-- Villager -->
+    <entity name="minecraft:villager_golem" costMultiplier="12" disabled="false"/> <!-- Iron Golem -->
+    <entity name="minecraft:blaze" costMultiplier="5.0" disabled="false"/> <!-- Blaze -->
+    <entity name="minecraft:zombie_pigman" costMultiplier="8.0" disabled="false"/> <!-- Zombie Pigman -->
+
 </spawning>
 </recipe>
 
