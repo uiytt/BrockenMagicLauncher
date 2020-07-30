@@ -142,12 +142,6 @@
             "hash": "2346505948"
         },
         {
-            "name": "EmbersRekindled",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/EmbersRekindled.jar",
-            "size": 9792671,
-            "hash": "894314118"
-        },
-        {
             "name": "BloodArsenal",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/BloodArsenal.jar",
             "size": 686217,
@@ -298,6 +292,12 @@
             "hash": "526519943"
         },
         {
+            "name": "FairyLights",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/FairyLights.jar",
+            "size": 1161870,
+            "hash": "623927055"
+        },
+        {
             "name": "VanillaFix",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/VanillaFix.jar",
             "size": 1025896,
@@ -336,8 +336,14 @@
         {
             "name": "CraftTweaker2",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/CraftTweaker2.jar",
-            "size": 1431822,
-            "hash": "1546517750"
+            "size": 1437018,
+            "hash": "2386886421"
+        },
+        {
+            "name": "OpenComputers",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/OpenComputers.jar",
+            "size": 15643758,
+            "hash": "2644122573"
         },
         {
             "name": "EnderIO",
@@ -358,16 +364,16 @@
             "hash": "2528265852"
         },
         {
-            "name": "MysticalMechanics",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/MysticalMechanics.jar",
-            "size": 1839971,
-            "hash": "3056925317"
-        },
-        {
             "name": "Chisel",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Chisel.jar",
             "size": 4755282,
             "hash": "2139932375"
+        },
+        {
+            "name": "Binnie",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Binnie.jar",
+            "size": 5857998,
+            "hash": "1655389276"
         },
         {
             "name": "ThermalFoundation",
@@ -384,8 +390,8 @@
         {
             "name": "Bewitchment",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Bewitchment.jar",
-            "size": 4862510,
-            "hash": "1002776407"
+            "size": 4885619,
+            "hash": "1196896486"
         }
     ],
     "configs": [
@@ -430,6 +436,11 @@
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/quark.cfg"
         },
         {
+            "name": "lepidopterology.cfg",
+            "path": "config/forestry/lepidopterology.cfg",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/forestry/lepidopterology.cfg"
+        },
+        {
             "name": "spawner.xml",
             "path": "config/enderio/recipes/user/spawner.xml",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/enderio/recipes/user/spawner.xml"
@@ -438,6 +449,11 @@
             "name": "common.cfg",
             "path": "config/cofh/core/common.cfg",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/cofh/core/common.cfg"
+        },
+        {
+            "name": "rituals.cfg",
+            "path": "config/bloodmagic/rituals.cfg",
+            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/bloodmagic/rituals.cfg"
         }
     ],
     "whitelist": [],

@@ -72,7 +72,16 @@ recipes.addShaped("broken_tablet_of_cupidity",<tombstone:tablet_of_cupidity>, [
     [<enderio:block_enderman_skull:2>, <minecraft:gold_block>,<enderio:block_enderman_skull:2>]
 ]);
 
-
+var reinforced_metals = <securitycraft:reinforced_metals>.definition;
+for i in 0 to 5 {
+    recipes.replaceAllOccurences(reinforced_metals.makeStack(i), <minecraft:redstone_block>);
+}
+recipes.replaceAllOccurences(<securitycraft:reinforced_glass_block>, <minecraft:glass>);
 recipes.replaceAllOccurences(<securitycraft:reinforced_stone>, <minecraft:obsidian>);
-recipes.replaceAllOccurences(<securitycraft:reinforced_metals:*>, <minecraft:gold_block>);
+
+recipes.addShaped("broken_retinal_scanner",<securitycraft:retinal_scanner>, [
+    [<minecraft:obsidian>, <minecraft:obsidian>, <minecraft:obsidian>],
+    [<minecraft:obsidian>,<botania:endereyeblock>, <minecraft:obsidian>],
+    [<minecraft:obsidian>, <minecraft:obsidian>,<minecraft:obsidian>]
+]);
 
