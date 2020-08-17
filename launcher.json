@@ -340,12 +340,6 @@
             "hash": "2386886421"
         },
         {
-            "name": "OpenComputers",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/OpenComputers.jar",
-            "size": 15643758,
-            "hash": "2644122573"
-        },
-        {
             "name": "EnderIO",
             "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/EnderIO.jar",
             "size": 8366769,
