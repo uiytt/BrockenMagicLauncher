@@ -1,455 +1,316 @@
 {
     "version": 1.0,
-    "name": "Broken Magic",
+    "name": "MAGICAL R'LYEH",
     "rule": "normal",
     "mods": [
         {
-            "name": "BiblioCraft",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/BiblioCraft.jar",
-            "size": 5418249,
-            "hash": "60672910"
+            "name": "Traverse",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/Traverse.jar",
+            "size": 270133,
+            "hash": "2763296554"
         },
         {
-            "name": "CoFHWorld",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/CoFHWorld.jar",
-            "size": 505987,
-            "hash": "3453628240"
+            "name": "llibrary",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/llibrary.jar",
+            "size": 884837,
+            "hash": "3549319638"
         },
         {
-            "name": "ActuallyAdditions",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/ActuallyAdditions.jar",
-            "size": 2703860,
-            "hash": "3931436262"
+            "name": "Waystones",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/Waystones.jar",
+            "size": 178994,
+            "hash": "1078840152"
         },
         {
-            "name": "LagGoggles",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/LagGoggles.jar",
-            "size": 182688,
-            "hash": "2035372676"
+            "name": "Chocolate+Quest+Repoured",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/Chocolate+Quest+Repoured.jar",
+            "size": 4029897,
+            "hash": "1213783651"
         },
         {
             "name": "Botania",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Botania.jar",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/Botania.jar",
             "size": 13814617,
             "hash": "2912908499"
         },
         {
-            "name": "JER",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/JER.jar",
-            "size": 222270,
-            "hash": "1645465789"
+            "name": "AbyssalCraft-Int",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/AbyssalCraft-Int.jar",
+            "size": 503902,
+            "hash": "3094092013"
         },
         {
-            "name": "Quark",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Quark.jar",
-            "size": 3877577,
-            "hash": "2488409664"
+            "name": "minerva-library",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/minerva-library.jar",
+            "size": 133294,
+            "hash": "2202440757"
+        },
+        {
+            "name": "CTM-MC",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/CTM-MC.jar",
+            "size": 194281,
+            "hash": "2377350478"
+        },
+        {
+            "name": "Harvest",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/Harvest.jar",
+            "size": 17988,
+            "hash": "3391482004"
         },
         {
             "name": "Guide-API",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Guide-API.jar",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/Guide-API.jar",
             "size": 169528,
             "hash": "2610263572"
         },
         {
-            "name": "MoreOverlays",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/MoreOverlays.jar",
-            "size": 36698,
-            "hash": "3040586377"
-        },
-        {
-            "name": "AutoRegLib",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/AutoRegLib.jar",
-            "size": 108306,
-            "hash": "2439252668"
-        },
-        {
-            "name": "FastFurnace",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/FastFurnace.jar",
-            "size": 10035,
-            "hash": "2999288828"
-        },
-        {
-            "name": "RefinedStorage",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/RefinedStorage.jar",
-            "size": 1912377,
-            "hash": "2296213724"
-        },
-        {
-            "name": "Decocraft",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Decocraft.jar",
-            "size": 16747522,
-            "hash": "2389695915"
-        },
-        {
-            "name": "CodeChickenLib",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/CodeChickenLib.jar",
-            "size": 704330,
-            "hash": "4147323667"
+            "name": "Clumps",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/Clumps.jar",
+            "size": 13792,
+            "hash": "1482739902"
         },
         {
             "name": "Patchouli",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Patchouli.jar",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/Patchouli.jar",
             "size": 466243,
             "hash": "2908745251"
         },
         {
-            "name": "TConstruct",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/TConstruct.jar",
-            "size": 4023372,
-            "hash": "1388090803"
-        },
-        {
-            "name": "EnderCore",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/EnderCore.jar",
-            "size": 647452,
-            "hash": "113379117"
-        },
-        {
             "name": "Mantle",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Mantle.jar",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/Mantle.jar",
             "size": 843486,
             "hash": "2885722424"
         },
         {
-            "name": "JEI",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/JEI.jar",
-            "size": 653044,
-            "hash": "3137212247"
+            "name": "Animus",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/Animus.jar",
+            "size": 349684,
+            "hash": "1251896851"
         },
         {
             "name": "Hwyla",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Hwyla.jar",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/Hwyla.jar",
             "size": 453778,
             "hash": "3111000959"
         },
         {
-            "name": "RebornCore",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/RebornCore.jar",
-            "size": 2429780,
-            "hash": "2951303663"
+            "name": "tombstone",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/tombstone.jar",
+            "size": 989178,
+            "hash": "2841442984"
         },
         {
-            "name": "Phosphor",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Phosphor.jar",
-            "size": 1082311,
-            "hash": "685974681"
-        },
-        {
-            "name": "Gendustry",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Gendustry.jar",
-            "size": 1856305,
-            "hash": "2346505948"
+            "name": "CyclopsCore",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/CyclopsCore.jar",
+            "size": 1056606,
+            "hash": "2312019825"
         },
         {
             "name": "BloodArsenal",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/BloodArsenal.jar",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/BloodArsenal.jar",
             "size": 686217,
             "hash": "2580147154"
         },
         {
-            "name": "RebornStorage",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/RebornStorage.jar",
-            "size": 80178,
-            "hash": "3923954111"
+            "name": "TFSpellPack",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/TFSpellPack.jar",
+            "size": 600502,
+            "hash": "847671194"
         },
         {
-            "name": "ThermalExpansion",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/ThermalExpansion.jar",
-            "size": 2345139,
-            "hash": "1830570490"
+            "name": "Aroma1997Core",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/Aroma1997Core.jar",
+            "size": 398634,
+            "hash": "1245456618"
         },
         {
-            "name": "PTRLib",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/PTRLib.jar",
-            "size": 169483,
-            "hash": "4127752292"
+            "name": "InfernalMobs",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/InfernalMobs.jar",
+            "size": 179551,
+            "hash": "1383228654"
         },
         {
-            "name": "SecurityCraft",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/SecurityCraft.jar",
-            "size": 1697272,
-            "hash": "2272896916"
+            "name": "AIImprovements",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/AIImprovements.jar",
+            "size": 7266,
+            "hash": "1634344625"
         },
         {
-            "name": "Bdlib",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Bdlib.jar",
-            "size": 1962731,
-            "hash": "160275794"
+            "name": "Forgelin",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/Forgelin.jar",
+            "size": 6278399,
+            "hash": "321292821"
+        },
+        {
+            "name": "phosphor",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/phosphor.jar",
+            "size": 1082311,
+            "hash": "685974681"
         },
         {
             "name": "BloodMagic",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/BloodMagic.jar",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/BloodMagic.jar",
             "size": 7208594,
             "hash": "3758110176"
         },
         {
-            "name": "NaturesAura",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/NaturesAura.jar",
-            "size": 767012,
-            "hash": "1522337642"
+            "name": "Chunk+Pregenerator",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/Chunk+Pregenerator.jar",
+            "size": 514799,
+            "hash": "1747822858"
         },
         {
-            "name": "Forestry",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Forestry.jar",
-            "size": 5298295,
-            "hash": "1875848507"
+            "name": "extraalchemy",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/extraalchemy.jar",
+            "size": 238627,
+            "hash": "1761011073"
         },
         {
-            "name": "GalacticraftCore",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/GalacticraftCore.jar",
-            "size": 10610662,
-            "hash": "3565899222"
+            "name": "arcanearchives",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/arcanearchives.jar",
+            "size": 4772949,
+            "hash": "2917768192"
+        },
+        {
+            "name": "CarryOn",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/CarryOn.jar",
+            "size": 317390,
+            "hash": "4206643329"
         },
         {
             "name": "Baubles",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Baubles.jar",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/Baubles.jar",
             "size": 108450,
             "hash": "2768018856"
         },
         {
-            "name": "Controlling",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Controlling.jar",
-            "size": 29057,
-            "hash": "936602497"
+            "name": "jei",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/jei.jar",
+            "size": 653211,
+            "hash": "474722659"
         },
         {
-            "name": "TickCentral",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/TickCentral.jar",
-            "size": 52840,
-            "hash": "1314282496"
+            "name": "mysticallib",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/mysticallib.jar",
+            "size": 431560,
+            "hash": "2222080653"
         },
         {
-            "name": "RedstoneFlux",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/RedstoneFlux.jar",
-            "size": 31802,
-            "hash": "2149558252"
+            "name": "antiqueatlas",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/antiqueatlas.jar",
+            "size": 1239580,
+            "hash": "3785394311"
         },
         {
-            "name": "OpenModsLib",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/OpenModsLib.jar",
-            "size": 2639587,
-            "hash": "2044378825"
+            "name": "librarianlib",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/librarianlib.jar",
+            "size": 40713059,
+            "hash": "3767020672"
         },
         {
-            "name": "DragonMounts2",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/DragonMounts2.jar",
-            "size": 17289348,
-            "hash": "3368581533"
+            "name": "AbyssalCraft",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/AbyssalCraft.jar",
+            "size": 14207183,
+            "hash": "3344534515"
         },
         {
-            "name": "JeiBees",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/JeiBees.jar",
-            "size": 117480,
-            "hash": "3264483269"
+            "name": "Customized-Dungeon-Loot",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/Customized-Dungeon-Loot.jar",
+            "size": 1694034,
+            "hash": "3776439835"
         },
         {
-            "name": "Galacticraft-Planets",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Galacticraft-Planets.jar",
-            "size": 3975978,
-            "hash": "335858698"
+            "name": "disenchanter",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/disenchanter.jar",
+            "size": 111421,
+            "hash": "3693229736"
         },
         {
-            "name": "Mcjtylib",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Mcjtylib.jar",
-            "size": 544856,
-            "hash": "1724718534"
+            "name": "mowziesmobs",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/mowziesmobs.jar",
+            "size": 5185246,
+            "hash": "1728036049"
         },
         {
-            "name": "OpenBlocks",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/OpenBlocks.jar",
-            "size": 3217616,
-            "hash": "3807164952"
+            "name": "DoomlikeDungeons",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/DoomlikeDungeons.jar",
+            "size": 702996,
+            "hash": "1282214900"
         },
         {
-            "name": "Pneumaticcraft",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Pneumaticcraft.jar",
-            "size": 9534448,
-            "hash": "2539567054"
+            "name": "AtlasExtras",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/AtlasExtras.jar",
+            "size": 58205,
+            "hash": "3573432952"
         },
         {
-            "name": "NotEnoughIDs",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/NotEnoughIDs.jar",
-            "size": 31782,
-            "hash": "1216359638"
+            "name": "TheBetweenlands",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/TheBetweenlands.jar",
+            "size": 107589116,
+            "hash": "2155971238"
         },
         {
-            "name": "MicdoodleCore",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/MicdoodleCore.jar",
-            "size": 53300,
-            "hash": "2549354639"
+            "name": "Aroma1997sDimension",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/Aroma1997sDimension.jar",
+            "size": 80736,
+            "hash": "2679617689"
         },
         {
-            "name": "JourneyMap",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/JourneyMap.jar",
-            "size": 6990968,
-            "hash": "1115181307"
+            "name": "Wawla",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/Wawla.jar",
+            "size": 94115,
+            "hash": "3871492581"
         },
         {
-            "name": "Tombstone",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Tombstone.jar",
-            "size": 987787,
-            "hash": "526519943"
+            "name": "EvilCraft",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/EvilCraft.jar",
+            "size": 2957006,
+            "hash": "3848901447"
         },
         {
-            "name": "FairyLights",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/FairyLights.jar",
-            "size": 1161870,
-            "hash": "623927055"
+            "name": "GardenOfGlass",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/GardenOfGlass.jar",
+            "size": 8960,
+            "hash": "2142658499"
         },
         {
-            "name": "VanillaFix",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/VanillaFix.jar",
-            "size": 1025896,
-            "hash": "1419556375"
-        },
-        {
-            "name": "CoFHCore",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/CoFHCore.jar",
-            "size": 848187,
-            "hash": "1627289305"
-        },
-        {
-            "name": "CTM",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/CTM.jar",
-            "size": 199045,
-            "hash": "1329553085"
-        },
-        {
-            "name": "RefinedStorageAddons",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/RefinedStorageAddons.jar",
-            "size": 26804,
-            "hash": "2032073741"
-        },
-        {
-            "name": "Morph-o-Tool",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Morph-o-Tool.jar",
-            "size": 30619,
-            "hash": "3774751708"
-        },
-        {
-            "name": "DoggyTalents",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/DoggyTalents.jar",
-            "size": 790070,
-            "hash": "1295344550"
-        },
-        {
-            "name": "CraftTweaker2",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/CraftTweaker2.jar",
-            "size": 1437018,
-            "hash": "2386886421"
-        },
-        {
-            "name": "EnderIO",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/EnderIO.jar",
-            "size": 8366769,
-            "hash": "636219196"
-        },
-        {
-            "name": "ThermalDynamics",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/ThermalDynamics.jar",
-            "size": 728082,
-            "hash": "1717905992"
-        },
-        {
-            "name": "ExtrAutils2",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/ExtrAutils2.jar",
-            "size": 3226408,
-            "hash": "2528265852"
+            "name": "SeedsForWizardry",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/SeedsForWizardry.jar",
+            "size": 25313,
+            "hash": "2478327588"
         },
         {
             "name": "Chisel",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Chisel.jar",
-            "size": 4755282,
-            "hash": "2139932375"
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/Chisel.jar",
+            "size": 4310011,
+            "hash": "486740034"
         },
         {
-            "name": "Binnie",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Binnie.jar",
-            "size": 5857998,
-            "hash": "1655389276"
+            "name": "twilightforest",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/twilightforest.jar",
+            "size": 28721862,
+            "hash": "199283324"
         },
         {
-            "name": "ThermalFoundation",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/ThermalFoundation.jar",
-            "size": 2219736,
-            "hash": "3144072150"
+            "name": "bewitchment",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/bewitchment.jar",
+            "size": 4892097,
+            "hash": "3213557264"
         },
         {
-            "name": "AstralSorcery",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/AstralSorcery.jar",
-            "size": 24976385,
-            "hash": "1143791308"
+            "name": "ElectroblobsWizardry",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/ElectroblobsWizardry.jar",
+            "size": 6765809,
+            "hash": "1448856086"
         },
         {
-            "name": "Bewitchment",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/mods/Bewitchment.jar",
-            "size": 4885619,
-            "hash": "1196896486"
+            "name": "wizardry",
+            "url": "https://broken-magic.mtxserv.com/launcher/mods/minecraft/mods/wizardry.jar",
+            "size": 12344507,
+            "hash": "1339213231"
         }
     ],
-    "configs": [
-        {
-            "name": "Bewitchment.cfg",
-            "path": "config/Bewitchment.cfg",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/Bewitchment.cfg"
-        },
-        {
-            "name": "openblocks.cfg",
-            "path": "config/openblocks.cfg",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/openblocks.cfg"
-        },
-        {
-            "name": "embers.cfg",
-            "path": "config/embers.cfg",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/embers.cfg"
-        },
-        {
-            "name": "naturesaura.cfg",
-            "path": "config/naturesaura.cfg",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/naturesaura.cfg"
-        },
-        {
-            "name": "extrautils2.cfg",
-            "path": "config/extrautils2.cfg",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/extrautils2.cfg"
-        },
-        {
-            "name": "securitycraft.cfg",
-            "path": "config/securitycraft.cfg",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/securitycraft.cfg"
-        },
-        {
-            "name": "tombstone.cfg",
-            "path": "config/tombstone.cfg",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/tombstone.cfg"
-        },
-        {
-            "name": "quark.cfg",
-            "path": "config/quark.cfg",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/quark.cfg"
-        },
-        {
-            "name": "lepidopterology.cfg",
-            "path": "config/forestry/lepidopterology.cfg",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/forestry/lepidopterology.cfg"
-        },
-        {
-            "name": "spawner.xml",
-            "path": "config/enderio/recipes/user/spawner.xml",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/enderio/recipes/user/spawner.xml"
-        },
-        {
-            "name": "common.cfg",
-            "path": "config/cofh/core/common.cfg",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/cofh/core/common.cfg"
-        },
-        {
-            "name": "rituals.cfg",
-            "path": "config/bloodmagic/rituals.cfg",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/config/bloodmagic/rituals.cfg"
-        }
-    ],
+    "configs": [],
     "whitelist": [],
     "other": [
         {
@@ -457,50 +318,35 @@
             "name": "Natives",
             "path": "natives.zip",
             "futurepath": "natives/",
-            "url": "https://broken-magic.mtxserv.com/natives.zip"
+            "url": "https://broken-magic.mtxserv.com/launcher/natives.zip"
         },
         {
             "type": "zip",
             "name": "Assets",
             "path": "assets.zip",
             "futurepath": "assets/",
-            "url": "https://broken-magic.mtxserv.com/assets.zip"
+            "url": "https://broken-magic.mtxserv.com/launcher/assets.zip"
         },
         {
             "type": "zip",
             "name": "Libs",
             "path": "libs.zip",
             "futurepath": "libs/",
-            "url": "https://broken-magic.mtxserv.com/libs.zip"
+            "url": "https://broken-magic.mtxserv.com/launcher/libs.zip"
         },
         {
             "type": "normal",
             "name": "Minecraft 1.12.2",
             "path": "bin/minecraft.jar",
             "futurepath": "minecraft.jar",
-            "url": "https://broken-magic.mtxserv.com/minecraft.jar"
+            "url": "https://broken-magic.mtxserv.com/launcher/minecraft.jar"
         },
         {
             "type": "normal",
             "name": "servers",
             "path": "servers.dat",
             "futurepath": "servers.dat",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/servers.dat"
-        },
-        {
-            "type": "normal",
-            "name": "options",
-            "path": "options.txt",
-            "futurepath": "options.txt",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/options.txt"
-        },
-        {
-            "type": "normal",
-            "name": "Crafts",
-            "path": "scripts/craftmodify.zs",
-            "futurepath": "craftmodify.zs",
-            "url": "https://github.com/uiytt/BrokenMagicLauncher/raw/master/minecraft/scripts/craftmodify.zs",
-            "forceupdate": true
+            "url": "https://broken-magic.mtxserv.com/launcher/servers.dat"
         }
     ]
 }
